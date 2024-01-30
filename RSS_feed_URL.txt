@@ -1,0 +1,50 @@
+https://rss.nytimes.com/services/xml/rss/nyt/World.xml
+https://rss.nytimes.com/services/xml/rss/nyt/US.xml
+https://rss.nytimes.com/services/xml/rss/nyt/Business.xml
+https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml
+https://rss.nytimes.com/services/xml/rss/nyt/Sports.xml
+
+https://rss.nytimes.com/services/xml/rss/nyt/Science.xml
+https://rss.nytimes.com/services/xml/rss/nyt/Space.xml
+https://rss.nytimes.com/services/xml/rss/nyt/Health.xml
+https://rss.nytimes.com/services/xml/rss/nyt/RealEstate.xml
+https://rss.nytimes.com/services/xml/rss/nyt/Jobs.xml
+https://rss.nytimes.com/services/xml/rss/nyt/Obituaries.xml
+https://rss.nytimes.com/services/xml/rss/nyt/Travel.xml
+
+https://www.huffpost.com/section/front-page/feed?x=1
+
+Latest Headlines (all sections) - https://moxie.foxnews.com/google-publisher/latest.xml
+World - https://moxie.foxnews.com/google-publisher/world.xml
+Politics - https://moxie.foxnews.com/google-publisher/politics.xml
+Science - https://moxie.foxnews.com/google-publisher/science.xml
+Health - https://moxie.foxnews.com/google-publisher/health.xml
+Sports - https://moxie.foxnews.com/google-publisher/sports.xml
+Travel - https://moxie.foxnews.com/google-publisher/travel.xml
+Tech - https://moxie.foxnews.com/google-publisher/tech.xml
+Opinion - https://moxie.foxnews.com/google-publisher/opinion.xml
+Video -  https://moxie.foxnews.com/google-publisher/videos.xml
+U.S. feed URL: https://moxie.foxnews.com/google-publisher/us.xml
+World feed URL: https://moxie.foxnews.com/google-publisher/world.xml
+
+https://www.yahoo.com/news/rss
+
+https://www.politico.com/rss/politicopicks.xml
+
+https://thetopdailynews.com/feed/
+https://feeds.npr.org/1004/rss.xml
+https://podcastfeeds.nbcnews.com/RPWEjhKq
+https://feeds.simplecast.com/54nAGcIl
+https://podcastfeeds.nbcnews.com/HL4TzgYC
+https://feeds.npr.org/510318/podcast.xml
+https://www.thecipherbrief.com/feed
+
+https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=400&Site=945&max=10
+https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=11&Site=945&max=10
+https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=13&Site=945&max=10
+https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=9&Site=945&max=10
+https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=2&Site=945&max=10
+https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?max=10&ContentType=1&Site=945
+https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=700&Site=945&max=10
+https://www.defense.gov/DesktopModules/ArticleCS/RSS.ashx?ContentType=800&Site=945&max=10
+
